@@ -1,6 +1,6 @@
 {
   "sites": [{
-    "name": "telegraaf",
+    "name": "example.com",
     "trustLevel": "low",
     "businessModel": "sponsores, ads"
   }, {
