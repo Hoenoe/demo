@@ -1,15 +1,14 @@
 {
   "sites": [{
-    "name": "example.com",
+    "domain": "example.com",
     "trustLevel": "low",
-    "businessModel": "sponsores, ads"
+    "slug": "example-com"
   }, {
-    "name": "De Correspondent",
+    "domain": "De Correspondent",
     "trustLeveL": "high",
-    "businessModel": "subscriptions"
   }],
   "telegraaf.nl": {
-     "name": "telegraaf",
+     "domain": "telegraaf",
     "trustLevel": "low",
     "businessModel": "sponsores, ads"
   }
