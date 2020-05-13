@@ -7,5 +7,10 @@
     "name": "De Correspondent",
     "trustLeveL": "high",
     "businessModel": "subscriptions"
-  }]
+  }],
+  "telegraaf.nl": {
+     "name": "telegraaf",
+    "trustLevel": "low",
+    "businessModel": "sponsores, ads"
+  }
 }
