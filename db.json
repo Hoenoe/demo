@@ -1,6 +1,7 @@
 {
   "sites": [{
     "domain": "example.com",
+    "slug": "example-com",
     "trustLevel": "low",
     "slug": "example-com"
   }, {
