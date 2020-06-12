@@ -1,16 +1,18 @@
 {
-  "sites": [{
-    "domain": "example.com",
-    "slug": "example-com",
-    "trustLevel": "low",
-    "slug": "example-com"
-  }, {
-    "domain": "De Correspondent",
-    "trustLeveL": "high",
-  }],
-  "telegraaf.nl": {
-     "domain": "telegraaf",
-    "trustLevel": "low",
-    "businessModel": "sponsores, ads"
-  }
+  "sites": [
+    {
+      "domain": "example.com",
+      "slug": "example-com",
+      "trustLevel": "low"
+    },
+    {
+      "domain": "De Correspondent",
+      "trustLeveL": "high"
+    },
+    {
+      "domain": "telegraaf",
+      "trustLevel": "low",
+      "businessModel": "sponsores, ads"
+    }
+  ]
 }
