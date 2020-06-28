@@ -3,14 +3,14 @@
     {
       "domain": "example.com",
       "slug": "example-com",
-      "trustLevel": "low"
+      "trustLevel": "high"
     },
     {
       "domain": "De Correspondent",
       "trustLeveL": "high"
     },
     {
-      "domain": "telegraaf",
+      "domain": "foxnews.com",
       "trustLevel": "low",
       "businessModel": "sponsores, ads"
     }
