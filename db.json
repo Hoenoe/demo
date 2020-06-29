@@ -12,6 +12,7 @@
     {
       "domain": "foxnews.com",
       "trustLevel": "low",
+      "slug": "foxnews-com",
       "businessModel": "sponsores, ads"
     }
   ]
